@@ -4,8 +4,10 @@ public class Main {
         System.out.println(customer);
 
         int a = 5;
+        int c = 6;
         int b = 3;
 
-        System.out.println(a + b);
+        System.out.println(a + b + c);
+
     }
 }
